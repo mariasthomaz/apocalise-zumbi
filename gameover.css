@@ -1,0 +1,34 @@
+@font-face {
+    font-family: StreamerDemo;
+    src: url("/StreamerDemo-eZ4Dg.otf") format("opentype");
+}
+
+body{
+    margin: 0;
+    background-image: url("/apocalipse-zumbi-na-sua-cidade.jpg");
+    background-size: cover;
+}
+
+.banner {
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-family: "StreamerDemo";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+footer{
+    position: fixed;
+    height: 35px;
+    background-color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Luxurious Roman', cursive;
+}

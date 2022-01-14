@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    background-image: url("/apocalipse-zumbi-na-sua-cidade.jpg");
+    background-size: cover;
+}
+
+.opçoes{
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 20px;
+}
+
+.historiaandie{
+    color: white;;
+    background-color: black;
+    opacity: 90%;
+    margin: 100px 100px 100px 100px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+}
+
+ .menina{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    padding-left: 900px;
+    background-color: black;
+}
+
+ button{
+    background-color: black;
+    color:red;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    margin: auto;
+}
+
+button:hover{
+    border-radius: 5px;
+    border: ridge;
+    border-color: red;
+    text-align: center;
+    bottom: auto;
+}
+
+footer{
+    position: fixed;
+    height: 35px;
+    background-color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Luxurious Roman', cursive;
+}
