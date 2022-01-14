@@ -92,3 +92,14 @@ footer{
 }
 
 
+@media (max-width: 700px){
+    .flex-container{
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .personagens {
+        margin-bottom: 30px;
+    }
+}
+
