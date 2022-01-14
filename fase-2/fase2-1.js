@@ -7,7 +7,7 @@ function escolhacassie(){
     
     if (fase1cassie === "1"){
         alert ("Você passou de fase!");
-        window.location.href="../Fase 3/fase3-1.html"
+        window.location.href="../fase-3/fase3-1.html"
     }
     else if (fase1cassie ==="2"){
         window.location.href="../gameover.html"

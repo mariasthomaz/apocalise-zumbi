@@ -7,7 +7,7 @@ function escolhajohn(){
     
     if (fase1john === "2"){
         alert ("Você passou de fase!");
-        window.location.href="../Fase 3/fase3-2 .html"
+        window.location.href="../fase-3/fase3-2 .html"
     }
     else if (fase1john ==="1"){
         window.location.href="../gameover.html"
