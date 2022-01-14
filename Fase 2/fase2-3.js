@@ -7,7 +7,7 @@ function escolhaandie(){
     
     if (fase1andie === "2"){
         alert ("Você passou de fase!");
-        window.location.href="/Fase 3/fase3-3.html"
+        window.location.href="../Fase 3/fase3-3.html"
     }
     else if (fase1andie ==="1"){
         window.location.href="../gameover.html"
