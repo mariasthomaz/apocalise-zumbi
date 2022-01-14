@@ -1,6 +1,6 @@
 @font-face {
     font-family: StreamerDemo;
-    src: url("../apocalipse-zumbi/StreamerDemo-eZ4Dg.otf") format("opentype");
+    src: url("./StreamerDemo-eZ4Dg.otf") format("opentype");
 }
 
 body{
